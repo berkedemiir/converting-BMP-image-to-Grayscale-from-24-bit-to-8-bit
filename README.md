@@ -1,0 +1,1 @@
+# converting-BMP-image-to-Grayscale-from-24-bit-to-8-bit
